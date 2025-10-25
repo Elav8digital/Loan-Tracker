@@ -1,0 +1,5 @@
+{
+  "name": "Futuristic Loan Interest Tracker",
+  "description": "A sophisticated application to track loan interest, transactions, and rate changes with a futuristic UI. It supports flexible date formats, theme customization, and provides detailed reporting.",
+  "requestFramePermissions": []
+}
